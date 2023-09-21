@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Terraform & Kubernetes**
 
-- 💬 Ask me about **Linux, DevOps **
+- 💬 Ask me about **Linux DevOps **
 
 - 📫 How to reach me **ashokayewale2001@gmail.com**
 
